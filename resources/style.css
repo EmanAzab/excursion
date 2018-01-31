@@ -1,0 +1,38 @@
+body{
+  background-color: black;
+  font-family: verdana;
+  text-align: center;
+}
+
+img{
+  align: center;
+}
+
+
+.header{
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+}
+#link{
+  font-size: 16px;
+  color: Aquamarine;
+}
+
+h3{
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+.content p{
+  font-size: 21px;
+  color: gray;
+}
+.footer img{
+  margin-top: 30px;
+}
+
+.trade_mark{
+  text-align: right;
+  color: gray;
+}
